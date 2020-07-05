@@ -19,3 +19,5 @@ software for all its users.  We, the Free Software Foundation, use the
 GNU General Public License for most of our software; it applies also to
 any other work released this way by its authors.  You can apply it to
 your programs, too.
+
+  When we speak of free software, we are referring to freedom, not
