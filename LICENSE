@@ -47,3 +47,5 @@ that there is no warranty for this free software.  For both users' and
 authors' sake, the GPL requires that modified versions be marked as
 changed, so that their problems will not be attributed erroneously to
 authors of previous versions.
+
+  Some devices are designed to deny users access to install or run
