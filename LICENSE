@@ -70,3 +70,5 @@ patents cannot be used to render the program non-free.
 modification follow.
 
                        TERMS AND CONDITIONS
+
+  0. Definitions.
