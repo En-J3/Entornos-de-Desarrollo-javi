@@ -74,3 +74,5 @@ modification follow.
   0. Definitions.
 
   "This License" refers to version 3 of the GNU General Public License.
+
+  "Copyright" also means copyright-like laws that apply to other kinds of
