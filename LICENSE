@@ -111,3 +111,5 @@ the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.
 
   1. Source Code.
+
+  The "source code" for a work means the preferred form of the work
