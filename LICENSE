@@ -194,3 +194,5 @@ users, your or third parties' legal rights to forbid circumvention of
 technological measures.
 
   4. Conveying Verbatim Copies.
+
+  You may convey verbatim copies of the Program's source code as you
