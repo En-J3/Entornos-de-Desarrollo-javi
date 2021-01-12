@@ -227,3 +227,5 @@ terms of section 4, provided that you also meet all of these conditions:
     regardless of how they are packaged.  This License gives no
     permission to license the work in any other way, but it does not
     invalidate such permission if you have separately received it.
+
+    d) If the work has interactive user interfaces, each must display
