@@ -244,3 +244,5 @@ in an aggregate does not cause this License to apply to the other
 parts of the aggregate.
 
   6. Conveying Non-Source Forms.
+
+  You may convey a covered work in object code form under the terms
