@@ -334,3 +334,5 @@ the User Product in which it has been modified or installed.  Access to a
 network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
+
+  Corresponding Source conveyed, and Installation Information provided,
