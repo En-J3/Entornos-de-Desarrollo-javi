@@ -340,3 +340,5 @@ in accord with this section must be in a format that is publicly
 documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
 unpacking, reading or copying.
+
+  7. Additional Terms.
