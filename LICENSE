@@ -344,3 +344,4 @@ unpacking, reading or copying.
   7. Additional Terms.
 
   "Additional permissions" are terms that supplement the terms of this
+License by making exceptions from one or more of its conditions.
