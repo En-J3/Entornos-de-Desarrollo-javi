@@ -342,3 +342,5 @@ source code form), and must require no special password or key for
 unpacking, reading or copying.
 
   7. Additional Terms.
+
+  "Additional permissions" are terms that supplement the terms of this
