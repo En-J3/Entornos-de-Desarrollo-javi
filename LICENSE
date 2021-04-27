@@ -351,3 +351,5 @@ that they are valid under applicable law.  If additional permissions
 apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
 this License without regard to the additional permissions.
+
+  When you convey a copy of a covered work, you may at your option
