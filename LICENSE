@@ -373,3 +373,5 @@ that material) supplement the terms of this License with terms:
     c) Prohibiting misrepresentation of the origin of that material, or
     requiring that modified versions of such material be marked in
     reasonable ways as different from the original version; or
+
+    d) Limiting the use for publicity purposes of names of licensors or
