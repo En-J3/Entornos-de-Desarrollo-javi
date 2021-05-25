@@ -385,3 +385,5 @@ that material) supplement the terms of this License with terms:
     it) with contractual assumptions of liability to the recipient, for
     any liability that these contractual assumptions directly impose on
     those licensors and authors.
+
+  All other non-permissive additional terms are considered "further
