@@ -387,3 +387,4 @@ that material) supplement the terms of this License with terms:
     those licensors and authors.
 
   All other non-permissive additional terms are considered "further
+restrictions" within the meaning of section 10.  If the Program as you
