@@ -395,3 +395,5 @@ a further restriction but permits relicensing or conveying under this
 License, you may add to a covered work material governed by the terms
 of that license document, provided that the further restriction does
 not survive such relicensing or conveying.
+
+  If you add terms to a covered work in accord with this section, you
