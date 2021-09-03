@@ -412,3 +412,5 @@ provided under this License.  Any attempt otherwise to propagate or
 modify it is void, and will automatically terminate your rights under
 this License (including any patent licenses granted under the third
 paragraph of section 11).
+
+  However, if you cease all violation of this License, then your
