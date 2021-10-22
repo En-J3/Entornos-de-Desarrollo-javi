@@ -426,3 +426,5 @@ violation by some reasonable means, this is the first time you have
 received notice of violation of this License (for any work) from that
 copyright holder, and you cure the violation prior to 30 days after
 your receipt of the notice.
+
+  Termination of your rights under this section does not terminate the
