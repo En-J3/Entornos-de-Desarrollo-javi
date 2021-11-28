@@ -452,3 +452,4 @@ propagate that work, subject to this License.  You are not responsible
 for enforcing compliance by third parties with this License.
 
   An "entity transaction" is a transaction transferring control of an
+organization, or substantially all assets of one, or subdividing an
