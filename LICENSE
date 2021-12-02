@@ -453,3 +453,4 @@ for enforcing compliance by third parties with this License.
 
   An "entity transaction" is a transaction transferring control of an
 organization, or substantially all assets of one, or subdividing an
+organization, or merging organizations.  If propagation of a covered
