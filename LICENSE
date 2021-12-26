@@ -481,3 +481,4 @@ hereafter acquired, that would be infringed by some manner, permitted
 by this License, of making, using, or selling its contributor version,
 but do not include claims that would be infringed only as a
 consequence of further modification of the contributor version.  For
+purposes of this definition, "control" includes the right to grant
