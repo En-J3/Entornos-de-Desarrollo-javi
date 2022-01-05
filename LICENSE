@@ -493,3 +493,4 @@ propagate the contents of its contributor version.
   In the following three paragraphs, a "patent license" is any express
 agreement or commitment, however denominated, not to enforce a patent
 (such as an express permission to practice a patent or covenant not to
+sue for patent infringement).  To "grant" such a patent license to a
