@@ -586,3 +586,5 @@ to choose that version for the Program.
 permissions.  However, no additional obligations are imposed on any
 author or copyright holder as a result of your choosing to follow a
 later version.
+
+  15. Disclaimer of Warranty.
