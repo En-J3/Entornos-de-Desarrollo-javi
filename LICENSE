@@ -611,3 +611,5 @@ EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGES.
 
   17. Interpretation of Sections 15 and 16.
+
+  If the disclaimer of warranty and limitation of liability provided
