@@ -613,3 +613,4 @@ SUCH DAMAGES.
   17. Interpretation of Sections 15 and 16.
 
   If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
