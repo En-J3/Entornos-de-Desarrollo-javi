@@ -620,3 +620,5 @@ Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
+
+            How to Apply These Terms to Your New Programs
