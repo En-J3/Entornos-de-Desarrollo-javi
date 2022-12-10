@@ -649,3 +649,5 @@ the "copyright" line and a pointer to where the full notice is found.
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Also add information on how to contact you by electronic and paper mail.
+
+  If the program does terminal interaction, make it output a short
