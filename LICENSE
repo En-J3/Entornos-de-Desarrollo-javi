@@ -666,3 +666,5 @@ might be different; for a GUI interface, you would use an "about box".
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
 <https://www.gnu.org/licenses/>.
+
+  The GNU General Public License does not permit incorporating your program
